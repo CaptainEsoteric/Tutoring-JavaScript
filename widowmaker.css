@@ -1,0 +1,19 @@
+#menutitle {
+background-color: khaki;
+font-size: 2em;
+color: #7f2030;
+}
+
+#menu, #menuitemtitle, #menucosttitle, #menucost, #addremove, #addsubtractitem{
+background-color: darkkhaki;
+}
+
+#carttitle{
+    background-color: lightgreen;
+    font-size: 2em;
+}
+
+#cartitemtitle, #cartitemcost, #cartitemquantity, #cartItem, #cartCount, #cartCost {
+    background-color: greenyellow;
+}
+
