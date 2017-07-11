@@ -8,5 +8,3 @@ StartMenu.AddFoodItem(new FoodItem("Nachos", 5.99));
 StartMenu.AddFoodItem(new FoodItem("Soft Drink", 1.99));
 return StartMenu;
 }
-
-window.menu = PopulateMenu();
